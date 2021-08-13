@@ -1,2 +1,4 @@
 # JavaVsPythonMLlibs
-A Comparison of Java Tribuo and Python scikit-learn Machine Learning Libraries
+## A Comparison of Java Tribuo and Python scikit-learn Machine Learning Libraries
+
+A proposal is made for a comparison of Java and Python Machine Learning Libraries. Specifically, a rigorous comparison between the recently open sourced Tribuo library for Java, and the well-established scikit-learn library for Python is under investigation. Tasks including classification, regression, and clustering are performed using each library while keeping the dataset fixed for each task. The accuracy and F-score are compared for the supervised learning models and each model's training time is measured. An evaluation of the code legibility of each model's training and testing instructions is performed. The ease of data preparation and data cleaning are considered, and a discussion of each library's documentation quality is presented.
