@@ -1,7 +1,7 @@
 # JavaVsPythonMLlibs
 ## A Comparison of Java Tribuo and Python scikit-learn Machine Learning Libraries
 
-This project contains a set of Jupyter notebooks and the datasets they used, which are the basis of the work for a research project. 
+This project contains a set of Jupyter notebooks and the datasets they use, which are the basis of the work for a research project. 
 
 This is the abstract for the reseach papaer:
 
